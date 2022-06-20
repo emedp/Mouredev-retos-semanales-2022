@@ -5,10 +5,12 @@ Repo donde subo mis soluciones a las proposiciones de retos de código del strea
 Su github y los repositorios donde se encuentran los enunciados y las soluciones:
 
 https://github.com/mouredev
-https://github.com/mouredev/Code-Challenges
-https://github.com/mouredev/Weekly-Challenge-2022-Swift
-https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 
+https://github.com/mouredev/Code-Challenges
+
+https://github.com/mouredev/Weekly-Challenge-2022-Swift
+
+https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 
 ## Listado de los retos
 
@@ -36,3 +38,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 21. calculadora txt
 22. Conjuntos
 23. MCD y MCM
+24. Iteration master
