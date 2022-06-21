@@ -39,3 +39,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 22. Conjuntos
 23. MCD y MCM
 24. Iteration master
+25. Piedra, papel, tijera
