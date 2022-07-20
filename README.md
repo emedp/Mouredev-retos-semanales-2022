@@ -42,3 +42,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 25. Piedra, papel, tijera
 26. Cuadrado y triángulo 2D
 27. Vectores ortogonales
+28. Máquina expendedora
