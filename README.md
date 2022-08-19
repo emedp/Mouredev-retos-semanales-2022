@@ -46,3 +46,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 29. Ordenar lista
 30. Enmarcar frase
 31. Años bisiestos
+32. Segundo mayor
