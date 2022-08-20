@@ -47,3 +47,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 30. Enmarcar frase
 31. Años bisiestos
 32. Segundo mayor
+33. sexagenario chino
