@@ -48,3 +48,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 31. Años bisiestos
 32. Segundo mayor
 33. sexagenario chino
+34. Números perdidos
