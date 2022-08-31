@@ -49,3 +49,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 32. Segundo mayor
 33. sexagenario chino
 34. Números perdidos
+35. Batalla Pokémon
