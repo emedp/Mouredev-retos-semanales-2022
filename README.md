@@ -50,3 +50,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 33. sexagenario chino
 34. Números perdidos
 35. Batalla Pokémon
+36. Los anillos de poder
