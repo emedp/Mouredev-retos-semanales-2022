@@ -54,3 +54,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 37. Lanzamiento Zelda
 38. Cambio binario a decimal
 41. Ley de Ohm
+42. Conversor unidad temperatura
