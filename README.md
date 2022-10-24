@@ -52,3 +52,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 35. Batalla Pokémon
 36. Los anillos de poder
 37. Lanzamiento Zelda
+38. Cambio binario a decimal
