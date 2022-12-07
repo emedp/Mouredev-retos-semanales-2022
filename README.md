@@ -53,5 +53,8 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 36. Los anillos de poder
 37. Lanzamiento Zelda
 38. Cambio binario a decimal
+39. 
+40. 
 41. Ley de Ohm
 42. Conversor unidad temperatura
+43. Truco o Trato
