@@ -59,3 +59,6 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 42. Conversor unidad temperatura
 43. Truco o Trato
 44. Bumeranes de números
+45. 
+46. 
+47. frecuencia vocales
