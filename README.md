@@ -65,3 +65,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 48. calendario de aDEViento
 49. detector handles
 50. encriptación de Karaca
+51. reto inventado
