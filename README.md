@@ -60,5 +60,5 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 43. Truco o Trato
 44. Bumeranes de números
 45. 
-46. 
+46. calcular coordenadas
 47. frecuencia vocales
