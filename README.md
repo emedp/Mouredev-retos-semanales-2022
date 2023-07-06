@@ -64,3 +64,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 47. frecuencia vocales
 48. calendario de aDEViento
 49. detector handles
+50. encriptación de Karaca
