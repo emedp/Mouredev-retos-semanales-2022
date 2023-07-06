@@ -54,7 +54,7 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 37. Lanzamiento Zelda
 38. Cambio binario a decimal
 39. Quick sort
-40. 
+40. Triángulo de Pascal
 41. Ley de Ohm
 42. Conversor unidad temperatura
 43. Truco o Trato
