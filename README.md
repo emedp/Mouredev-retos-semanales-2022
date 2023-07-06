@@ -62,3 +62,4 @@ https://github.com/mouredev/Weekly-Challenge-2022-Kotlin
 45. 
 46. calcular coordenadas
 47. frecuencia vocales
+48. calendario de aDEViento
