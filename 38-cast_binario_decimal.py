@@ -12,6 +12,10 @@
 def cast_binary_decimal (binary_number: str):
     decimal_number = 0
 
+    for digit in binary_number:
+        if digit != '0' and digit != '1':
+            return print('El número binario es inválido.')
+
     for position in range(0, len(binary_number)):
 
         if (binary_number[position] == '1'):
@@ -20,4 +24,5 @@ def cast_binary_decimal (binary_number: str):
     return print(binary_number + ' en decimal es: ' + str(decimal_number) )
 
 
-cast_binary_decimal(input('Introduce el número binario que convertir a decimal: '))
+binary = input('Introduce el número binario que convertir a decimal: ')
+cast_binary_decimal(binary)
